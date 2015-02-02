@@ -5,6 +5,7 @@
 EAPI=5
 
 DESCRIPTION="Linux cmt driver"
+LICENSE="BSD"
 KEYWORDS="~arm"
 IUSE=""
 SLOT="0"
